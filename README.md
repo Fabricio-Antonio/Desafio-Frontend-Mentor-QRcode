@@ -1,6 +1,7 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+![desafio-frontend-mentor-qr-code-okumprawp-fabricio-antonio vercel app_](https://user-images.githubusercontent.com/90152237/201370599-a1dddf5e-388b-41f1-8bb1-b0800fddd3ed.png)
+
 
 ## Welcome! 👋
 
